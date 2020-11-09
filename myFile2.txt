@@ -4,4 +4,5 @@ we are cloning
 remote to local
 making some changes
 committing the changes
-hello hello
+pushing it back to
+remote repository
