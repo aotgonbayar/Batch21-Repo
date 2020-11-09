@@ -1,1 +1,6 @@
 here is the second file in new repo
+more great stuff here
+we are cloning
+remote to local
+making some changes
+committing the changes
